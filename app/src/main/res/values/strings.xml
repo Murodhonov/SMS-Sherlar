@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SMS Sherlar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sms_sherlar">SMS\nShe’rlar</string>
+    <string name="yangilar">Yangilar</string>
+    <string name="_122">122</string>
+    <string name="ta">ta</string>
+    <string name="new_string">new</string>
+    <string name="favorite">Saqlanganlar</string>
+    <string name="sevgi_sherlari">Sevgi sherlari</string>
+    <string name="so_ginch_armon">So\'ginch armon</string>
+    <string name="tabrik_sherlari">Tabrik sherlari</string>
+    <string name="ota_ona_xaqida">Ota-ona xaqida</string>
+    <string name="do_stlik_sherlari">Do\'stlik sherlari</string>
+    <string name="hazil_sherlar">Hazil sherlar</string>
+    <string name="like">like</string>
+    <string name="five">5</string>
+    <string name="sevgi_nshe_rlari">sevgi\nshe’rlari</string>
+    <string name="poemName">Oshiq derlar meni</string>
+    <string name="poem">Sizni birinchi bor ko\'rganimdayoq menga yoqib qolgansiz, lekin bu tuy\'gu sevigiga aylanadi deb o\'ylamagandim…</string>
+    <string name="poem2">Ko\'zlarim ko\'r bo\'lsa,ko\'rmasdim seni,\nYurgagim tosh bo\'lsa, sevmasdim seni,\nMayli xijron azobi qiynasin meni,\nO\'lsam ham baribir sevaman seni!</string>
+</resources>
